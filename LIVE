@@ -1,0 +1,4 @@
+[
+{ "live" : "live", "club" : "Champions League", "date" : "23.01.2025", "time" : "2:30 AM", "team1name" : "PSG", "team2name" : "Man City", "team1image" : "https://i.postimg.cc/0j4GDgRc/20241028-234134.png", "team2image" : "https://i.postimg.cc/gcMGX6wD/inbound6120052151433601064.png", "league_image" : "https://i.postimg.cc/L6fxqf2D/20241104-182908.png", "link1" : "open", "link2" : "open", "link3" : "open", "link4" : "open"},
+{ "live" : "close", "club" : "Champions League", "date" : "23.01.2025", "time" : "2:30 AM", "team1name" : "Arsenal", "team2name" : "Dinamo Zagreb", "team1image" : "https://i.postimg.cc/zXSvLFNd/inbound6377508868708672972.png", "team2image" : "https://i.postimg.cc/tRcsJb4Z/20241104-183418.png", "league_image" : "https://i.postimg.cc/L6fxqf2D/20241104-182908.png", "link1" : "close", "link2" : "close", "link3" : "close", "link4" : "close"}
+]
